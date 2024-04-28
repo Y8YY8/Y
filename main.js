@@ -5,7 +5,7 @@
     Host: "smtp.elasticemail.com",
     Username: "atefyuossef@gmail.com",
     Password: "EBABC602EC5C13AF84FBA61BFFEC4E4727D4",
-    To: 'yuossefatef80@gmail.com',
+    To: 'atefyuossef@gmail.com',
     From: "atefyuossef@gmail.com",
     Subject: "This is the subject",
     Body: "name: " + document.getElementById('name').value +
