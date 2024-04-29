@@ -7,7 +7,7 @@
     Password: "EBABC602EC5C13AF84FBA61BFFEC4E4727D4",
     To: 'atefyuossef@gmail.com',
     From: "atefyuossef@gmail.com",
-    Subject: "This is the subject",
+    Subject: "تمت عملية الشراء",
     Body: "name: " + document.getElementById('name').value +
      "<br> last name: " + document.getElementById('Your last name').value
 
